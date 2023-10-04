@@ -39,13 +39,16 @@ They will be used to train the model and predict the "prediction" outcome of the
 We have three options of visualizing the data output
 
 1) Heatmap Confusion:
- <img width="401" alt="image" src="https://github.com/ktsolakidis/Disease-Prediction-Visualization/assets/106263061/51f75af7-dad3-48e2-a164-062038530cb0">
+<img width="363" alt="image" src="https://github.com/ktsolakidis/Disease-Prediction-Visualization/assets/106263061/fa711366-8103-429f-8504-7f6c25fbdbd7">
+
  
 2) Features Importance plot:
- <img width="879" alt="image" src="https://github.com/ktsolakidis/Disease-Prediction-Visualization/assets/106263061/50a3f0a1-29e4-4649-aea9-20093dd6f8cd">
+<img width="882" alt="image" src="https://github.com/ktsolakidis/Disease-Prediction-Visualization/assets/106263061/d63b83b2-5e90-4ec9-a980-767c0058eaf8">
+
 
 3) Scatter plot
-<img width="366" alt="image" src="https://github.com/ktsolakidis/Disease-Prediction-Visualization/assets/106263061/5ac97c4b-58fb-4c0f-bb3a-713df276ff05">
+<img width="576" alt="image" src="https://github.com/ktsolakidis/Disease-Prediction-Visualization/assets/106263061/23c01e02-3110-4b66-9c41-6670388a55d6">
+
 
 
 
